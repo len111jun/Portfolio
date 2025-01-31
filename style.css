@@ -94,7 +94,6 @@ a {
 
 .accordion-content {
     padding: 0 15px 0 15px;
-    max-height: 0;
     overflow: hidden;
     background-color: rgb(151, 162, 128);
     border-radius: 5px;
