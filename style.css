@@ -55,6 +55,14 @@ body {
     padding: 7px 10px 7px 10px;
 }
 
+.wohnort {
+    background-color: rgb(205, 209, 179);
+    color: white;
+    border-radius: 20px;
+    margin: 7px 0 7px 3px;
+    padding: 7px 10px 7px 10px;
+}
+
 a {
     display: block;
     text-align: center;
